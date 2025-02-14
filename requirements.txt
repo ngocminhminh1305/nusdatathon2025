@@ -1,0 +1,15 @@
+﻿Ensure that the file requirements.txt is present in the root directory. Run the following command in your terminal to install all required libraries:
+
+
+pip install -r requirements.txt
+
+
+It should install the following libraries not included in a fresh installation of Python:
+* numpy version: 1.26.3
+* pandas version: 2.1.4
+* sklearn version: 1.6.0
+* matplotlib version: 3.8.2
+* seaborn version: 0.13.1
+* xgboost version: 2.1.3
+* scipy version: 1.14.1
+* tensorflow version: 2.18.0
